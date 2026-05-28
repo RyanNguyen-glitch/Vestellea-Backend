@@ -1,1 +1,1 @@
-web: node server.js
+web: python rembg-server.py
