@@ -1,1 +1,1 @@
-web: python rembg-server.py
+web: gunicorn rembg-server:app
